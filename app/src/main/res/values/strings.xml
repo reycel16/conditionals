@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Conditional App</string>
+    <string name="a">A</string>
+    <string name="b">B</string>
+    <string name="choose_activity">Choose Activity:</string>
+    <string name="what_is_your_name">What is your name?</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="equals">=</string>
+    <string name="e_g_2">e.g 2</string>
+    <string name="addition">+</string>
+    <string name="subtraction">-</string>
+    <string name="multiplication">x</string>
+    <string name="division">/</string>
+    <string name="e_g_1">e.g 1</string>
+    <string name="back">Back</string>
+    <string name="username">Name</string>
+</resources>
